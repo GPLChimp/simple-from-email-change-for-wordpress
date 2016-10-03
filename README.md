@@ -4,7 +4,7 @@
 Contributors: GPLChimp 
 
 
-Donate link: http://gplchimp.com/
+Donate link: https://gplchimp.com/
 
 Tags: wp mail, mail, email, change default email
 
@@ -47,6 +47,12 @@ Just add your name and email address and update settings you want to use and you
 Go to Plugins Settings Screen and enter your Email Address and Name.
 
 
+
+= More Information =
+
+
+
+For more information, feel free to visit the official website for this plugin: <a href="https://gplchimp.com/woocommerce-extensions/" target="_blank">WooCommerce Extensions</a>.
 
 == Changelog ==
 = 
